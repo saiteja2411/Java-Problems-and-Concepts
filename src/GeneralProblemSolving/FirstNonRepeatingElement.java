@@ -20,7 +20,6 @@ public class FirstNonRepeatingElement {
         String str = "assa2aii*eqjeejajt";
         FirstNonRepeatingElement d= new FirstNonRepeatingElement();
         System.out.println(d.findFirstNonRepeatingElement(str));
-        
     }
     
     //Total Time complexity would be :
